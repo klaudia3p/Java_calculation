@@ -45,5 +45,6 @@ public class Main {
      Rownania row1 = new Rownania();
      row1.getResult1();
      row1.getResult2();
+     //
     }
 }
